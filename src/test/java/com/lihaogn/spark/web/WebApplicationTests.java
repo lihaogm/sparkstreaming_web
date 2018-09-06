@@ -1,4 +1,4 @@
-package com.lihaogn.sparkstreaming.web;
+package com.lihaogn.spark.web;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
